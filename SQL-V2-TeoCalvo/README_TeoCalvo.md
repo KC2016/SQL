@@ -27,24 +27,17 @@ Esquema dos relacionamentos entre as tabelas destes banco de dados
 
 ## Cronograma
 
-| Episódio | Tema | Data | Vídeo |
+| Episódio | Tema | Data 
 | ------- | ---- | ----| --- |
-| 01 | Introdução, SELECT, WHERE | 17/11/2020 |  |
-| 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 |  |
-| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 24/11/2020 | |
-| 04 | JOIN's | 01/12/2020 |  |
-| 05 | SUBQUERIES | 03/12/2020 |  |
-| 06 | WINDOW FUNCTIONS | 08/12/2020 | |
-| 07 | CREATE TABLE, VIEWS | 10/12/2020 | |
-| 08 | Dúvidas e outros tópicos | 15/12/2020 | |
+| 01 | Introdução, SELECT, WHERE | 17/11/2020 |
+| 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 |
+| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 24/11/2020 |
+| 04 | JOIN's | 01/12/2020 |
+| 05 | SUBQUERIES | 03/12/2020 |
+| 06 | WINDOW FUNCTIONS | 08/12/2020 |
+| 07 | CREATE TABLE, VIEWS | 10/12/2020 |
+| 08 | Dúvidas e outros tópicos | 15/12/2020 |
 </br>
 
-## Lições aprendidas
-### Episódio 1
-### Episódio 2
-### Episódio 3
-### Episódio 4
-### Episódio 5
-### Episódio 6
-### Episódio 7
-### Episódio 8
+[Lives no twitch](https://www.twitch.tv/teomewhy/videos)</br>
+[Vídeos no Youtube](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
