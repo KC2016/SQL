@@ -29,13 +29,13 @@ Esquema dos relacionamentos entre as tabelas destes banco de dados
 
 | Episódio | Tema | Data |
 | ------- | ---- | ----| --- |
-| 01 | Introdução, SELECT, WHERE | 17/11/2020 |
-| 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 |
-| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 24/11/2020 |
-| 04 | JOIN's | 01/12/2020 |
-| 05 | SUBQUERIES | 03/12/2020 |
-| 06 | WINDOW FUNCTIONS | 08/12/2020 |
-| 07 | CREATE TABLE, VIEWS | 10/12/2020 |
+| 01 | Introdução, SELECT, WHERE | 17/11/2020 |</br>
+| 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 |</br>
+| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 24/11/2020 |</br>
+| 04 | JOIN's | 01/12/2020 |</br>
+| 05 | SUBQUERIES | 03/12/2020 |</br>
+| 06 | WINDOW FUNCTIONS | 08/12/2020 |</br>
+| 07 | CREATE TABLE, VIEWS | 10/12/2020 |</br>
 | 08 | Dúvidas e outros tópicos | 15/12/2020 |
 </br>
 
