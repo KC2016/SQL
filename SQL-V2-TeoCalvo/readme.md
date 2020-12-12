@@ -27,7 +27,7 @@ Esquema dos relacionamentos entre as tabelas destes banco de dados
 
 ## Cronograma
 
-| Episódio | Tema | Data 
+| Episódio | Tema | Data |
 | ------- | ---- | ----| --- |
 | 01 | Introdução, SELECT, WHERE | 17/11/2020 |
 | 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 |
