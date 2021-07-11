@@ -1,4 +1,4 @@
-# SQL
+# SQL - queries
 Practicing SQL
 
 Contents:
